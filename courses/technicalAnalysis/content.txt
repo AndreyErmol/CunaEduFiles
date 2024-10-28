@@ -3,7 +3,7 @@
 <!--
 <video src="/video/1.mp4" controls>
 </video> -->
-<img alt src="/img/1.png" style="width: 100px; height: 100px;">
+<img alt src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/img/1.png?raw=true" style="width: 100px; height: 100px;">
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lorem
             nibh, consectetur vel lacus in, fringilla suscipit nibh. Suspendisse
