@@ -1,1 +1,12 @@
-<h1>Тут будет тест</h1>
+{
+  "question": "Какое обновление Ethereum состоялось 14 мая 2016 года?",
+  "options": [
+    "Homestead",
+    "Byzantium",
+    "Constantinople",
+    "Istanbul"
+  ],
+  "answer": [
+    "Homestead"
+  ]
+}

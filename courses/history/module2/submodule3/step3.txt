@@ -1,3 +1,12 @@
-<h1>Тут будет тест</h1>
-
-
+{
+  "question": "Какой алгоритм консенсуса используется в блокчейне TRON?",
+  "options": [
+    "Proof-of-Work",
+    "Delegated Proof-of-Stake (DPoS)",
+    "Proof-of-Stake",
+    "Byzantine Fault Tolerance"
+  ],
+  "answer": [
+    "Delegated Proof-of-Stake (DPoS)"
+  ]
+}

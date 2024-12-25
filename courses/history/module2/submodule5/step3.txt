@@ -1,3 +1,14 @@
-<h1>Тут будет тест</h1>
+{
+  "question": "Какой токен должен был быть запущен в рамках проекта Telegram Open Network (TON)?",
+  "options": [
+    "GRAM",
+    "TON",
+    "BTC",
+    "ETH"
+  ],
+  "answer": [
+    "GRAM"
+  ]
+}
 
 
