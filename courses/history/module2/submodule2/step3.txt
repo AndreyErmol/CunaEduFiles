@@ -1,9 +1,9 @@
 {
   "question": "Какой протокол используется в Монеро для обеспечения анонимности транзакций?",
   "options": [
-    "CryptoNote",
     "Proof-of-Work",
     "RingCT",
+    "CryptoNote",
     "SHA-256"
   ],
   "answer": [

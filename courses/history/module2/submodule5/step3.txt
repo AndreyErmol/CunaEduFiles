@@ -1,8 +1,8 @@
 {
   "question": "Какой токен должен был быть запущен в рамках проекта Telegram Open Network (TON)?",
   "options": [
-    "GRAM",
     "TON",
+    "GRAM",
     "BTC",
     "ETH"
   ],
