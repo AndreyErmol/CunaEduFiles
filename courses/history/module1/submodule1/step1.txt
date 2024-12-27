@@ -2,7 +2,7 @@
 
 <p>
 https://ru.freepik.com/free-photo/render-white-hand-put-coin-wallet-black-hand_35987172.htm#fromView=keyword&page=1&position=12&uuid=12250beb-527c-4595-b142-d068b5bf8157"
-<img height=40 width=40 src="https://img.freepik.com/free-photo/render-white-hand-put-coin-wallet-black-hand_107791-17464.jpg?t=st=1735336461~exp=1735340061~hmac=9c9811ccaedd2e9d8bbeb682129eabd840796cd97a9f9e168686885f83258087&w=1800">
+<img height=40 width=40 src="/images/render-white-hand-put-coin-wallet-black-hand.jpg">
   Криптовалютный мир, как мы его знаем сегодня, представляет собой сложную 
   и многогранную экосистему, которая возникла на стыке технологий, финансов 
   и философии децентрализации. В этом курсе мы подробно рассмотрим ключевые 
