@@ -4,21 +4,7 @@
 <img style="vertical-align: middle" height=40 width=60 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
 rb_43952.png?raw=true">
-<img style="vertical-align: middle" height=40 width=60 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
-rb_43952.png?raw=true">
-<img style="vertical-align: middle" height=40 width=60 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
-rb_43952.png?raw=true">
-<img style="vertical-align: middle" height=40 width=60 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
-rb_43952.png?raw=true">
-<img style="vertical-align: middle" height=40 width=60 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
-rb_43952.png?raw=true">
-<img style="vertical-align: middle" height=40 width=60 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
-rb_43952.png?raw=true">
+
   Криптовалютный мир, как мы его знаем сегодня, представляет собой сложную 
   и многогранную экосистему, которая возникла на стыке технологий, финансов 
   и философии децентрализации. В этом курсе мы подробно рассмотрим ключевые 
