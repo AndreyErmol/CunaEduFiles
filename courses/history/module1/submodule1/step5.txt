@@ -1,5 +1,6 @@
 <h1>Условно развитие блокчейна можно разделить на три поколения</h1>
 <p>
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/bitcoin.png?raw=true">
   1. Bitcoin и другие виртуальные валюты. Даже сегодня многие из возможностей 
   Bitcoin остаются центральными для технологии блокчейн
 </p>
