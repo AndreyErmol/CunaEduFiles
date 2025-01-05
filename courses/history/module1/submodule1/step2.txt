@@ -24,7 +24,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/modul
   В этом документе он подробно рассказал о том, насколько эта технология была хорошо оснащена 
   для повышения цифрового доверия, учитывая аспект децентрализации, который означал, что никто 
   никогда не будет контролировать что-либо. Для совершения Bitcoin-транзакций Сатоши ограничил 
-  размер блоков информации до <strong>1 МБ</strong>.<img style="vertical-align: middle" height=30 width=40 
+  размер блоков информации до <strong>1 МБ</strong>.<img style="vertical-align: middle" height=50 width=60 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/transaction.png?raw=true">
 </p>
 
