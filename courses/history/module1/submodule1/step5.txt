@@ -6,6 +6,8 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/modul
   Bitcoin остаются центральными для технологии блокчейн
 </p>
 <p>
+<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/smartcontract.png?raw=true">
   <strong>2. Смарт-контракты.</strong> Через несколько лет после появления валюты первого 
   поколения разработчики решили рассмотреть использование блокчейн не только 
   в рамках криптовалют. Например, изобретатели Ethereum решили использовать 
@@ -13,6 +15,8 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/modul
   стала возможность использования смарт-контрактов
 </p>
 <p>
+<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/future.png?raw=true">
   <strong>3. Будущее.</strong> По мере того как компании внедряют новые приложения, технология 
   блокчейн продолжает совершенствоваться. Компании преодолевают ограничения 
   масштаба и вычислений, а потенциал развития блокчейна безграничен
