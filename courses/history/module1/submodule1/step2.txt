@@ -9,7 +9,8 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/modul
   развитие произошло благодаря <strong>Стюарту Хаберу</strong> и <strong>В. Скотту Сторнетту</strong>. Они представили то, 
   что многие люди стали называть блокчейном, в 1991 году. Их первая работа была связана 
   с работой над криптографически защищенной цепочкой блоков, в которой никто не мог 
-  подделать временные метки документов.
+  подделать временные метки документов.<img style="vertical-align: middle" height=40 width=60 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/document.png?raw=true">
 </p>
 <p>
   В 1992 году они модернизировали свою систему, включив в нее деревья Merkle, которые повысили 
