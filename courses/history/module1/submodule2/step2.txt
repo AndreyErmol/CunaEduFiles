@@ -1,5 +1,7 @@
 <h1>Искусство войны и торговли</h1>
 <p>
+<img style="vertical-align: middle" height=50 width=50 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule2/images/samurai.jpg?raw=true">
   Весь XVI в. в Японии шли непрерывные войны, и повсюду царил хаос, 
   поскольку каждый крупный феодал стремился подчинить себе соседние территории. 
   Позже это столетие стали называть сэнгоку дзидай, или эпохой воюющих провинций. 
