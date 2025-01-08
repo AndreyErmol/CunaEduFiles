@@ -18,5 +18,5 @@
   сообщения выглядело как случайный набор букв. Механизм замены символов имел 
   алгоритм, который менялся в зависимости от установленных внутрь шестерен.
 </p>
-<img height="150" width="200" style="align-self: center" data-iview
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/vigenereSquare.png?raw=true">
+<img data-iview height="150" width="200" style="align-self: center" class="iview-image"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/enigma.jpg?raw=true">
