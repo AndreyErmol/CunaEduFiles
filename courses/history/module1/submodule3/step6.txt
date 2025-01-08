@@ -14,7 +14,7 @@
   используется <strong>"квадрат Виженера"</strong> - таблица, где в каждой строке алфавит 
   сдвигается на одну позицию вправо.
 </p>
-<img height="150" width="150" style="align-self: center" class="data-iview"
+<img height="150" width="150" style="align-self: center" data-iview
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/vigenereSquare.png?raw=true">
 <p>
   Если взять строку с первой буквой ключа <em>"З"</em> и столбец с первой буквой 
