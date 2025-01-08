@@ -1,6 +1,6 @@
 <h1>Криптография Средневековья</h1>
 <p>
-<img height="40" width="90" style="vertical-align: middle"
+<img height="40" width="75" style="vertical-align: middle"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/middleAges.jpg?raw=true">
   В Средние века криптография стала более распространенной. <strong>Моноалфавитные шифры</strong> оставались стандартом, но позже появились более сложные методы. 
   В <strong>IX</strong> веке арабский математик <strong>Аль-Кинди</strong> разработал метод <strong>частотного анализа</strong>, 
