@@ -13,7 +13,7 @@
   разматывания текст становился нечитаемым. Для его восстановления требовалась 
   скитала такого же диаметра.
 </p>
-<img height="70" width="140" 
+<img height="70" width="140" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule3/images/skytale.png?raw=true">
 <p>
   Прежде чем идти дальше, стоит рассказать что такое <strong>моноалфавитный алгоритм</strong>. 
