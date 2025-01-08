@@ -13,5 +13,5 @@
   вмешательство в передачу данных будет обнаружено, поскольку измерение 
   квантового состояния изменяет его. Поляризация фотонов описывает, как 
   световые волны колеблются в пространстве.<img style="vertical-align: middle" height=40 width=80 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule4/images/lightVibration.png?raw=true">
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule4/images/lightVibrations.png?raw=true">
 </p>
