@@ -9,7 +9,6 @@
   ],
   "answer": [
     "Multicoin Capital",
-    "Andreessen Horowitz (a16z)",
     "Foundation Capital",
     "Sino Global Capital"
   ]
