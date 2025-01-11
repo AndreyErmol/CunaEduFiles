@@ -2,7 +2,7 @@
 <p>
   После создания концепции PoH, Анатолий собрал команду единомышленников, включая <strong>Раджа Гокала</strong> 
   <em>(бывший сотрудник Qualcomm и Google)</em> и <strong>Грега Фитцгеральда</strong> <em>(ранее работавшего в Intel и Google)</em>. 
-  Вместе они начали разработку первых версий Solana и провели успешное тестирование платформытым ключом.<img style="vertical-align: middle" height=40 width=40 
+  Вместе они начали разработку первых версий Solana и провели успешное тестирование платформы.<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/key.png?raw=true">
 </p>
 <p>
