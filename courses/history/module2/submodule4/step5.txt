@@ -5,6 +5,8 @@
   разработки новых децентрализованных приложений и решений)</em>
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/investor.png?raw=true">
   Что касается ключевых инвесторов проекта, то к самым крупным из них можно отнести 
   таких гигантов рынка, как:
   <br><strong>1. Multicoin Capital</strong> <em>(венчурный фонд, который инвестирует в различные проекты в сфере 

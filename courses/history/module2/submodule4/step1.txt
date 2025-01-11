@@ -1,7 +1,7 @@
 <h1>Solana</h1>
 
 <p>
-<img style="vertical-align: middle" height=40 width=40 
+<img style="vertical-align: middle" height=30 width=30 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module2/submodule4/images/solana.png?raw=true">
   Проект был основан в <strong>2017 году Анатолием Яковенко</strong>, инженером-программистом с богатым 
   опытом работы в таких компаниях, как <em>Qualcomm</em>, <em>Mesosphere</em> и <em>Dropbox</em>. Идея создания 
