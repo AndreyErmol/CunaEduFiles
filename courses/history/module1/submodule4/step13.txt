@@ -4,7 +4,7 @@
   В начале <strong>21 века</strong> начинают появляться первые исследования и концепции постквантовой 
   криптографии. Ученые начали осознавать потенциальные угрозы, которые квантовые 
   компьютеры могут представлять для существующих криптографических систем.<img style="vertical-align: middle" height=40 width=40 
-src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule4/images/programming.png?raw=true">
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/programming.png?raw=true">
 </p>
 <p>
   <strong>Постквантовая криптография</strong> <em>(PQC)</em> — это криптографические алгоритмы, устойчивые 
