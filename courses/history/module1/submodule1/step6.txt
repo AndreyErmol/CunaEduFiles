@@ -1,7 +1,7 @@
 <h1>Рассмотрим более подробно основные внедрения</h1>
 
 <p>
-<img style="vertical-align: middle" height=50 width=50 
+<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/programming.png?raw=true">
   В 2015 году <strong>Linux Foundation</strong> представила Umbrella - проект блокчейна 
   с открытым исходным кодом. Они продолжали называть это <strong>Hyperledger</strong>, 
@@ -39,7 +39,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/modul
   проверяют и передают данные из внешних источников на блокчейн. Это позволяет 
   смарт-контрактам получать достоверную информацию, необходимую для их выполнения. 
   Каждый узел в сети экономически мотивирован предоставлять точные данные через токен <strong>LINK</strong>, 
-  который служит средством оплаты за услуги оракулов.<img style="vertical-align: middle" height=50 width=50 
+  который служит средством оплаты за услуги оракулов.<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/network.png?raw=true">
 </p>
 

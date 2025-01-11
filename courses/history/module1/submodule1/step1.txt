@@ -1,7 +1,7 @@
 <h1>Добро пожаловать на курс по истории!</h1>
 
 <p>
-<img style="vertical-align: middle" height=40 width=60 
+<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule1/images/
 book.png?raw=true">
 
