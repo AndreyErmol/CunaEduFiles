@@ -1,6 +1,9 @@
 <h1>Отличие от технического</h1>
 
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
+  approach.png?raw=true">
   <em>Подход к анализу</em>
   <strong>• Технический анализ:</strong> Ориентирован на графики и исторические данные. Трейдеры ищут паттерны 
   и сигналы для принятия решений.
@@ -8,6 +11,9 @@
   стоимости актива. Анализируются экономические показатели и новости.
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
+  time.png?raw=true">
   <em>Временной горизонт</em>
   <strong>• Фундаментальный анализ:</strong> Обычно применяется для долгосрочных инвестиций. Инвесторы ищут 
   активы с высоким потенциалом роста в будущем.
@@ -16,6 +22,9 @@
   это не значит, что вы не можете использовать технический анализ для анализа цены актива для инвестиций.
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
+  art.png?raw=true">
   <em>Инструменты</em>
   <strong>• Технический анализ:</strong> Использует графики, индикаторы, уровни поддержки, сопротивления и т.д.
   <strong>• Фундаментальный анализ:</strong> Использует финансовые отчеты, экономические индикаторы 
