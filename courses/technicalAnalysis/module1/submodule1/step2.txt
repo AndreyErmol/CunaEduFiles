@@ -8,7 +8,7 @@
 <p>
 <img style="vertical-align: middle" height=40 width=40 
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
-  cost.png?raw=true">
+  cost.png">
   <strong>1. Цена — это всё!</strong>
   <br>Представьте себе, что каждая цена актива — это результат сложного взаимодействия 
   всех участников рынка: от крупных институциональных инвесторов до обычных трейдеров. 
