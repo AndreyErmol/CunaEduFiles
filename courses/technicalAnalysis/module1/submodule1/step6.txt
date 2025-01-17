@@ -2,8 +2,7 @@
 
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
-  approach.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/approach.png?raw=true">
   <em>Подход к анализу</em>
   <strong>• Технический анализ:</strong> Ориентирован на графики и исторические данные. Трейдеры ищут паттерны 
   и сигналы для принятия решений.
