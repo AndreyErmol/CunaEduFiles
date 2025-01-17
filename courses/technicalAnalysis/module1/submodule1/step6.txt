@@ -12,8 +12,7 @@
 </p>
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
-  time.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/time.png?raw=true">
   <em>Временной горизонт</em>
   <strong>• Фундаментальный анализ:</strong> Обычно применяется для долгосрочных инвестиций. Инвесторы ищут 
   активы с высоким потенциалом роста в будущем.
@@ -23,8 +22,7 @@
 </p>
 <p>
 <img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/
-  art.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/art.png?raw=true">
   <em>Инструменты</em>
   <strong>• Технический анализ:</strong> Использует графики, индикаторы, уровни поддержки, сопротивления и т.д.
   <strong>• Фундаментальный анализ:</strong> Использует финансовые отчеты, экономические индикаторы 
