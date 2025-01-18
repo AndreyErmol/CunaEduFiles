@@ -8,6 +8,8 @@
   <br><strong>• 51-75</strong>: Жадность
   <br><strong>• 76-100</strong>: Экстремальная жадность
 </p>
+<img height="150" width="150" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/feargreed.png?raw=true">
 <p>
   Чем выше значение индекса, тем больше преобладает жадность на рынке; 
   чем ниже — тем сильнее страх. Индекс рассчитывается на основе нескольких факторов, 
