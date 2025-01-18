@@ -1,6 +1,9 @@
 <h1>Как оценить ликвидность?</h1>
 <p>
-  Чтобы определить уровень ликвидности криптовалюты, обратите внимание на следующие <strong>ключевые показатели</strong>:
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/level.png?raw=true">
+  Чтобы определить уровень ликвидности криптовалюты, обратите 
+  внимание на следующие <strong>ключевые показатели</strong>:
 </p>
 <p>
   <strong>•</strong> <em>Объем торгов</em>: Высокий объем торгов за определенный период времени 

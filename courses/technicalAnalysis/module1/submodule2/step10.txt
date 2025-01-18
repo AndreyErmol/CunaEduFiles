@@ -5,6 +5,8 @@
   углубимся в то, как именно этот показатель влияет на <em>рыночные движения криптовалют</em>. 
   Капитализация является ключевым фактором, формирующим 
   динамику цен. Давайте рассмотрим, как она влияет на поведение трейдеров и инвесторов!
+  <img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/behavior.png?raw=true">
 </p>
 <p>
   <strong>1. Капитализация как индикатор стабильности</strong>
@@ -28,6 +30,7 @@
   <br>Капитализация также отражает уровень уверенности инвесторов в конкретной криптовалюте 
   и в целом в рынке. Когда капитализация растет, это может создать позитивное настроение 
   среди трейдеров и привлечь новых инвесторов. Напротив, падение капитализации может 
-  вызвать панику и привести к массовым распродажам.
+  вызвать панику и привести к массовым распродажам.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule2/images/sale.png?raw=true">
 </p>
 
