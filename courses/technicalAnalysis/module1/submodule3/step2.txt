@@ -11,6 +11,7 @@
 <p>
   Этот механизм обеспечивает ограниченное предложение криптовалюты, что делает 
   её более дефицитной со временем. Всего будет создано <strong>21 миллион биткоинов</strong>, 
-  и халвинг помогает замедлить темпы их добычи.
+  и халвинг помогает замедлить темпы их добычи.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule3/images/mining.png?raw=true">
 </p>
 

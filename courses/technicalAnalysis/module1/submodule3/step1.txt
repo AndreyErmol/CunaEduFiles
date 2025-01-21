@@ -5,5 +5,6 @@
   который происходит примерно раз в <strong>четыре года</strong>. Он заключается в снижении 
   вознаграждения за майнинг новых блоков вдвое. Давайте разберемся, как 
   работает этот процесс и какое влияние он оказывает на предложение 
-  биткоинов и рынок в целом!
+  биткоинов и рынок в целом!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule3/images/bitcoinTeach.png?raw=true">
 </p>
