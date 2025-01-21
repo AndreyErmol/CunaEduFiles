@@ -16,5 +16,5 @@
   применять их на практике, поможет вам лучше ориентироваться в динамичных условиях 
   финансовых рынков. Однако не забывайте использовать этот индекс в сочетании с 
   другими аналитическими инструментами для более точной оценки ситуации!<img style="vertical-align: middle" height=40 width=40 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/assessment.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/assessment.png?raw=true">
 </p>
