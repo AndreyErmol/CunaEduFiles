@@ -1,7 +1,8 @@
 <h1>Примеры поведения толпы</h1>
 
 <p>
-  <strong>2. Рост криптовалюты Dogecoin (2021 год)</strong>
+  <strong>2. Рост криптовалюты Dogecoin<img style="vertical-align: middle" height=30 width=30 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/doge.png?raw=true"> (2021 год)</strong>
   <br>В 2021 году криптовалюта Dogecoin, изначально созданная как шутка, стала популярной 
   благодаря поддержке в социальных сетях, особенно со стороны Илона Маска. Массовое 
   внимание и FOMO <em>(страх упустить возможность)</em> привели к тому, что цена Dogecoin 

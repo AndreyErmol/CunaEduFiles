@@ -11,7 +11,8 @@
 </p>
 <p>
   <strong>2. Эмоциональная реакция на новости</strong>
-  <br>Рынок криптовалют особенно подвержен влиянию новостей. Положительные или 
+  <br><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/news.png?raw=true">Рынок криптовалют особенно подвержен влиянию новостей. Положительные или 
   отрицательные события могут вызывать сильные эмоциональные реакции:
   <br><strong>• Позитивные новости</strong><em>(например, принятие криптовалюты крупными компаниями)</em> 
   могут вызвать эйфорию и привести к массовым покупкам. Это может создать пузырь, 
@@ -27,5 +28,6 @@
   большинство обсуждает покупку определенной криптовалюты, это может создать ложное чувство уверенности.
   <br><strong>• Страх упустить возможность <em>(FOMO)</em></strong>: Это состояние возникает, 
   когда трейдеры видят, что другие зарабатывают деньги и начинают покупать активы без 
-  должного анализа, опасаясь упустить прибыль.
+  должного анализа, опасаясь упустить прибыль.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/manipulation.png?raw=true">
 </p>

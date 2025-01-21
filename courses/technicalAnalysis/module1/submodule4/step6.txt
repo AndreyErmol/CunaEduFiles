@@ -11,7 +11,8 @@
   r/wallstreetbets, которые заметили, что <em>около 140% акций</em> GameStop были проданы в шорт — 
   то есть крупные хедж-фонды занимали короткие позиции, ожидая падения цен. Участники 
   форума решили воспользоваться этим и начали массово скупать акции, чтобы поднять 
-  их цену и заставить шортистов закрывать свои позиции с убытками.
+  их цену и заставить шортистов закрывать свои позиции с убытками.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/minus.png?raw=true">
 </p>
 <p>
   <em>Ход событий</em>
@@ -19,7 +20,8 @@
   к резкому росту цены акций GameStop. За несколько недель цена выросла с <strong>$20 до более чем $400</strong> за акцию.
   <br>• Шорт-сквиз: Рост цены вынудил хедж-фонды, такие как <em>Melvin Capital</em> и <em>Citron Research</em>, 
   закрывать свои короткие позиции, что вызвало еще больший рост цен из-за необходимости 
-  выкупать акции по текущим высоким ценам.
+  выкупать акции по текущим высоким ценам.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/highCost.png?raw=true">
 </p>
 <p>
   <em>Последствия</em>
@@ -37,7 +39,8 @@
 <p>
   GameStop стал символом того, как коллективные действия мелких инвесторов могут противостоять 
   крупным институциональным игрокам. Однако многие новички, купившие акции на пике роста, 
-  понесли значительные убытки после того, как цена начала падать.
+  понесли значительные убытки после того, как цена начала падать.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/lostMoney.png?raw=true">
 </p>
 
 
