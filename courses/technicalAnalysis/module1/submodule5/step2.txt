@@ -14,5 +14,6 @@
   Чем выше значение индекса, тем больше преобладает жадность на рынке; 
   чем ниже — тем сильнее страх. Индекс рассчитывается на основе нескольких факторов, 
   включая волатильность рынка, объем торгов, доминирование активов, настроение в 
-  социальных сетях и другие ключевые метрики.
+  социальных сетях и другие ключевые метрики.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/metric.png?raw=true">
 </p>
