@@ -1,5 +1,7 @@
 <h1>Как трактовать уровни индекса?</h1>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule5/images/fear.png?raw=true">
   <strong>1. Экстремальный страх (0-24)</strong>
   <br>• Когда индекс находится в этой зоне, это может указывать на то, что рынок недооценен. 
   Инвесторы часто продают свои активы из-за паники, что создает возможность для покупки по 
@@ -23,6 +25,8 @@
   перегрет и стоит задуматься о продаже.
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule1/images/cost.png?raw=true">
   <strong>5. Экстремальная жадность (76-100)</strong>
   <br>• Когда индекс достигает этого уровня, это может означать, что активы 
   переоценены. Инвесторы рискуют потерять деньги при коррекции рынка, поэтому 
