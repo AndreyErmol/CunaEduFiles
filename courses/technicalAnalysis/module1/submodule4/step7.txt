@@ -14,7 +14,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>В 2021 году рынок невзаимозаменяемых токенов <em>(NFT)</em> стал настоящим феноменом. 
   Цены на уникальные цифровые активы взлетели до небес после того, как известные 
   художники и знаменитости начали продавать свои работы в формате NFT. Например, 
-  цифровая картина <strong>Beeple была продана за $69 миллионов</strong> на аукционе Christie's.<img style="vertical-align: middle" height=40 width=40 
+  <strong>цифровая картина Beeple была продана за $69 миллионов</strong> на аукционе Christie's.<img style="vertical-align: middle" height=40 width=40 
 src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module1/submodule4/images/auction.png?raw=true"> 
   Это привлекло внимание широкой публики и вызвало массовый интерес к NFT как к 
   инвестиционному инструменту. Однако многие участники рынка затем столкнулись с 
