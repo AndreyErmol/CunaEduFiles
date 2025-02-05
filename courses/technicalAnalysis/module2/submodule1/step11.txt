@@ -1,22 +1,41 @@
-<h1>Заключение</h1>
+<h1>Простые модели из нескольких свечей</h1>
 
 <p>
-  Мунэхиса организовал собственную систему связи: в условленное время 
-  он расставлял людей на крышах домов на всем пути от Осаки до Сакаты, 
-  и они флагами передавали по цепочке сигналы. Кроме того, в течение многих лет 
-  он вел наблюдения за погодой и записывал результаты, а чтобы лучше изучить 
-  психологию инвесторов, анализировал колебания рисовых цен вплоть до того времени, 
-  когда биржа еще находилась при дворе Дзёдои Кейана.<img style="vertical-align: middle" height="40" width="40" 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule2/images/smart.png?raw=true">
+  <strong>3. Нейтральные модели (нерешительность рынка)</strong>
 </p>
 <p>
-  Такой подход к биржевой торговле позволил Мунэхисе Хомме добиться колоссальных успехов 
-  в Осаке и начать торговать еще и на региональной бирже в <strong>Эдо</strong> <em>(ныне Токио)</em>. Он нажил 
-  гигантское состояние благодаря настоящему таланту трейдера. Авторитет Мунахисы Хоммы 
-  был невероятно велик. Мунэхиса Хомма умер в <strong>1803 г.</strong> В последние годы жизни он был 
-  финансовым советником правительства и получил почетный титул самурая. 
-  Торговые принципы, применявшиеся Хоммой на рисовом рынке и описанные им в двух 
-  книгах, легли в основу <em>свечного анализа</em>, который в наши дни получил распространение по всему миру.<img style="vertical-align: middle" height="40" width="40" 
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/history/module1/submodule2/images/analyse.png?raw=true">
+  <em>Доджи (Doji)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Цена открытия находится приблизительно на том же уровне, что и цена закрытия <em>(тело — тонкая линия)</em>.
+  <br>- Длинные верхняя и нижняя тени.
+  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.  
+  <br><strong>Что означает</strong>: Баланс сил между быками и медведями. Часто предвещает разворот, особенно после тренда.
+  <br><strong>Типы</strong>:
+  <br>- Обычный доджи — нейтральный сигнал.  
+  <br>- Драконьи доджи — очень длинные тени <em>(хаос на рынке)</em>.
 </p>
-
+<img height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/doji.png?raw=true">
+<p>
+  <em>Пинцет (Tweezer Tops/Bottoms)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Две свечи с одинаковыми максимумами <em>(пинцет на вершине)</em> или минимумами <em>(пинцет внизу)</em>.
+  <br>- Первая свеча — продолжение тренда, вторая — откат.
+  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.
+  <br><strong>Что означает</strong>: Сильное сопротивление/поддержка. Пинцет на вершине — сигнал к продаже, внизу — к покупке.
+</p>
+<img height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/pincet.png?raw=true">
+<p>
+  <em>Харами (Harami)</em> 
+  <br><strong>Как выглядит</strong>:  
+  <br>- Первая свеча — длинная <em>(материнская)</em>.
+  <br>- Вторая свеча — маленькая, полностью внутри тела первой.
+  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.
+  <br><strong>Что означает</strong>: Затишье после сильного движения. Часто предшествует развороту.
+  <br><strong>Типы</strong>:
+  <br>- Бычья харами — после падения.
+  <br>- Медвежья харами — после роста.
+</p>
+<img height="100" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/harami.jpg?raw=true">
