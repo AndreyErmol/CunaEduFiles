@@ -19,7 +19,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br><strong>Что означает</strong>: Медведи пытались толкнуть цену вниз, но быки перехватили контроль и закрыли свечу вверху. Сигнал разворота вверх.  
   <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться выше тела <em>«молота»</em>.
 </p>
-<img height="100" width="200" style="align-self: center"
+<img height="120" width="200" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/molot.jpg?raw=true">
 <p>
   <em>Бычье поглощение (Bullish Engulfing)</em> 
