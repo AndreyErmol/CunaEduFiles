@@ -1,7 +1,8 @@
 <h1>Простые модели из нескольких свечей</h1>
 
 <p>
-  <strong>2. Медвежьи модели (сигналы к падению)</strong>
+  <strong>2. Медвежьи модели (сигналы к падению)</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/down.png?raw=true">
 </p>
 <p>
   <em>Повешенный (Hanging Man)</em> 

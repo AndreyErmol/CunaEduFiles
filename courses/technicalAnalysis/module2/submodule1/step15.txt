@@ -12,5 +12,6 @@
 <p>
   Свечи — это ваш гид в хаосе рынка. Они не дают гарантий, но делают невидимое 
   видимым: показывают страх, жадность, надежды и разочарования миллионов 
-  трейдеров. Научитесь их <em>«слышать»</em> — и вы перестанете торговать вслепую!
+  трейдеров. Научитесь их <em>«слышать»</em> — и вы перестанете торговать вслепую!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/blind.png?raw=true">
 </p>

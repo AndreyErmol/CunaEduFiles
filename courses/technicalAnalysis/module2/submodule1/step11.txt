@@ -1,7 +1,8 @@
 <h1>Простые модели из нескольких свечей</h1>
 
 <p>
-  <strong>3. Нейтральные модели (нерешительность рынка)</strong>
+  <strong>3. Нейтральные модели (нерешительность рынка)</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/brainstorm.png?raw=true">
 </p>
 <p>
   <em>Доджи (Doji)</em> 
