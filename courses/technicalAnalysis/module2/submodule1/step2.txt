@@ -27,5 +27,5 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>
   <br>Верхняя тень начинается с 100500$ и продлевается вдоль до 101000$
 </p>
-<img class="iview-image" height="200" width="140" style="align-self: center" data-iview
+<img height="200" width="140" style="align-self: center" 
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/candle.png?raw=true">
