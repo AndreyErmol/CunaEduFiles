@@ -6,17 +6,20 @@
 <p>
   Одиночные свечи полезны, но их <strong>истинная сила — в комбинациях</strong>. Например:
   <br><strong>•</strong> Три бычьи свечи подряд с растущими телами = устойчивый аптренд.
-  <br><strong>•</strong> Медвежье поглощение после роста = сигнал к продажам.
+  <br><strong>•</strong> Медвежье поглощение после роста = сигнал к продажам.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/up.png?raw=true">
 </p>
 <p>
-  <em>Почему это работает?</em> Паттерны отражают массовое поведение. Когда тысячи трейдеров 
+  <em>Почему это работает?</em> 
+  <br>Паттерны отражают массовое поведение. Когда тысячи трейдеров 
   видят «молот» на уровне поддержки, многие начнут покупать — и это самореализующийся прогноз.
 </p>
 <p>
   <strong>Преимущество перед другими графиками</strong>
   <br><strong>•</strong> Скорость анализа: за секунду вы оцениваете настроение рынка по форме свечи.
   <br><strong>•</strong> Гибкость: паттерны работают на любых таймфреймах — от 1 минуты до месячного графика.
-  <br><strong>•</strong> Универсальность: свечи используют в акциях, Forex, криптовалютах — везде, где есть цена.
+  <br><strong>•</strong> Универсальность: свечи используют в акциях, Forex, криптовалютах — везде, где есть цена.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/cost.png?raw=true">
 </p>
 <p>
   <strong>Особенности в криптовалютах</strong>
@@ -26,7 +29,8 @@
 </p>
 <p>
   <em>Важно</em>: В криптовалютах свечные паттерны часто формируются быстрее, но и 
-  <em>«ложных сигналов»</em> больше. Всегда проверяйте их на старших таймфреймах!
+  <em>«ложных сигналов»</em> больше. Всегда проверяйте их на старших таймфреймах!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/art.png?raw=true">
 </p>
 <p>
   <strong>Как использовать свечи эффективно?</strong>

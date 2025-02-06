@@ -3,7 +3,8 @@
   <strong>Японские свечи</strong> — это не просто <em>«цветные прямоугольники»</em> на графике. Они 
   работают как детектор рыночных эмоций, показывая, кто сейчас контролирует 
   рынок: быки, медведи или нерешительные участники. Давайте разберемся, в чем 
-  их уникальная ценность для трейдеров!
+  их уникальная ценность для трейдеров!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/trend.png?raw=true">
 </p>
 <p style="text-align: center;">
   <em>Визуальная наглядность: всё в одной свече</em>
@@ -24,6 +25,8 @@
   <em>Свечи говорят на языке психологии рынка</em>
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/time.png?raw=true">
   Каждая свеча — это история битвы между страхом и жадностью:
   <br><strong>•</strong> Длинное тело (например, зелёное): покупатели агрессивно толкают цену вверх — рынок уверен в росте.
   <br><strong>•</strong> Маленькое тело + длинные тени: борьба быков и медведей. Цена металась, но закрылась рядом с открытием — неопределенность.
@@ -31,5 +34,6 @@
 </p>
 <p>
   <em>Совет</em>: Смотрите на свечи в контексте тренда. Например, Доджи 
-  после долгого роста — сигнал к паузе или коррекции.
+  после долгого роста — сигнал к паузе или коррекции.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/graphic.png?raw=true">
 </p>

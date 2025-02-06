@@ -3,7 +3,8 @@
 <p>
   <strong>Свеча</strong> — это визуальное отображение цены за выбранный период времени <em>(таймфрейм)</em>. Каждая свеча показывает:
   <br><strong>•</strong> Цену открытия <em>(Open)</em> и закрытия <em>(Close)</em>.
-  <br><strong>•</strong> Максимум <em>(High)</em> и минимум <em>(Low)</em> за период.
+  <br><strong>•</strong> Максимум <em>(High)</em> и минимум <em>(Low)</em> за период.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/up.png?raw=true">
 </p>
 <p>
   <strong>Структура свечи</strong>:
@@ -13,6 +14,8 @@
   <br><strong>•</strong> Тени <em>(фитили)</em> — линии выше/ниже тела, показывающие диапазон колебаний
 </p>
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/approach.png?raw=true">
   <strong>Пример</strong>:
   <br>Если цена Bitcoin открылась на 100000$, опустилась до 99500$, 
   затем выросла до 101000$ и закрылась на цене 100500$ - это бычья свеча со следующей структурой:

@@ -15,7 +15,7 @@
   <br>- Драконьи доджи — очень длинные тени <em>(хаос на рынке)</em>.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/doji.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/doji.png?raw=true">
 <p>
   <em>Пинцет (Tweezer Tops/Bottoms)</em> 
   <br><strong>Как выглядит</strong>:  
@@ -25,7 +25,7 @@
   <br><strong>Что означает</strong>: Сильное сопротивление/поддержка. Пинцет на вершине — сигнал к продаже, внизу — к покупке.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/pincet.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/pincet.png?raw=true">
 <p>
   <em>Харами (Harami)</em> 
   <br><strong>Как выглядит</strong>:  
@@ -38,7 +38,7 @@
   <br>- Медвежья харами — после роста.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/harami.jpg?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/harami.jpg?raw=true">
 <p>
   <strong>Советы по работе с моделями</strong> 
   <br>- Контекст важнее паттерна: Доджи на вершине тренда — сигнал к продаже, а в боковике — просто шум.  

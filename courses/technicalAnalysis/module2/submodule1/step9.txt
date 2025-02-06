@@ -6,7 +6,8 @@
   Давайте разберем ключевые модели, которые должен знать каждый!
 </p>
 <p>
-  <strong>1. Бычьи модели (сигналы к росту)</strong>
+  <strong>1. Бычьи модели (сигналы к росту)</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/upCandle.png?raw=true">
 </p>
 <p>
   <em>Молот (Hammer)</em> 
@@ -19,7 +20,7 @@
   <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться выше тела <em>«молота»</em>.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/molot.jpg?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/molot.jpg?raw=true">
 <p>
   <em>Бычье поглощение (Bullish Engulfing)</em> 
   <br><strong>Как выглядит</strong>:  
@@ -29,4 +30,4 @@
   <br><strong>Что означает</strong>: Бычий импульс настолько силён, что перекрывает предыдущее падение. Сигнал к покупке.
 </p>
 <img height="100" width="100" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/engulfingUp.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingUp.png?raw=true">

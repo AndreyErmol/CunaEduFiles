@@ -13,7 +13,7 @@
   <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться ниже тела <em>«повешенного»</em>.
 </p>
 <img height="100" width="100" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/hangingMan.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/hangingMan.png?raw=true">
 <p>
   <em>Медвежье поглощение (Bearish Engulfing)</em> 
   <br><strong>Как выглядит</strong>:  
@@ -23,7 +23,7 @@
   <br><strong>Что означает</strong>: Продавцы доминируют — пора фиксировать прибыль или открывать шорт.
 </p>
 <img height="100" width="100" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/engulfingDown.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/engulfingDown.png?raw=true">
 <p>
   <em>Падающая звезда (Shooting Star)</em> 
   <br><strong>Как выглядит</strong>:  
@@ -34,4 +34,4 @@
   <br><strong>Что означает</strong>: Быки пытались толкнуть цену вверх, но медведи отбросили её назад. Сигнал к коррекции.
 </p>
 <img height="100" width="100" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/starDown.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/starDown.png?raw=true">
