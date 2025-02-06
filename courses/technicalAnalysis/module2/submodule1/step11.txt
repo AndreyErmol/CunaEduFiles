@@ -46,5 +46,6 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>- Подтверждайте сигналы: Паттерн + уровень поддержки/сопротивления = сильная зона для входа.  
   <br>- Фильтруйте таймфреймы: На 1-минутном графике «молот» может быть случайностью, на дневном — сильным сигналом.  
   <br>
-  <br>Эти модели — ваши «союзники» в анализе. Запомните их, тренируйтесь распознавать — и со временем вы начнете видеть рыночные сигналы даже без индикаторов!
+  <br>Эти модели — ваши «союзники» в анализе. Запомните их, тренируйтесь распознавать — и со временем вы начнете видеть рыночные сигналы даже без индикаторов!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/crew.png?raw=true">
 </p>
