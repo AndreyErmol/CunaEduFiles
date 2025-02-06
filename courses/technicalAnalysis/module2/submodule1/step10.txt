@@ -33,5 +33,5 @@
   <br><strong>Где искать</strong>: После восходящего тренда.
   <br><strong>Что означает</strong>: Быки пытались толкнуть цену вверх, но медведи отбросили её назад. Сигнал к коррекции.
 </p>
-<img height="100" width="100" style="align-self: center"
+<img height="120" width="120" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/starDown.png?raw=true">
