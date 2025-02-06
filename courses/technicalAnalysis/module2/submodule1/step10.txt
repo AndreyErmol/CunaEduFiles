@@ -12,7 +12,7 @@
   <br><strong>Что означает</strong>: Быки теряют контроль — медведи начинают атаковать. Сигнал к закрытию длинных позиций.
   <br><em>Важно</em>: Подтверждение — следующая свеча должна закрыться ниже тела <em>«повешенного»</em>.
 </p>
-<img height="100" width="100" style="align-self: center"
+<img height="130" width="140" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/hangingMan.png?raw=true">
 <p>
   <em>Медвежье поглощение (Bearish Engulfing)</em> 
