@@ -26,7 +26,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br><strong>Что означает</strong>: Сильное сопротивление/поддержка. Пинцет на вершине — сигнал к продаже, внизу — к покупке.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/pincet.png?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/pincet.jpg?raw=true">
 <p>
   <em>Харами (Harami)</em> 
   <br><strong>Как выглядит</strong>:  
