@@ -1,5 +1,5 @@
 {
-  "question": "Что означает паттерн 'Падающая звезда'?",
+  "question": "Что означает паттерн Падающая звезда?",
   "image": {
     "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/harami.jpg?raw=true",
     "height": 100,
