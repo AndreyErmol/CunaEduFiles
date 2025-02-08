@@ -1,7 +1,10 @@
 {
   "question": "Что означает паттерн 'Падающая звезда'?",
-  "image": '<img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/harami.jpg?raw=true">',
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule1/images/harami.jpg?raw=true",
+    "height": 100,
+    "width": 200
+  },
   "options": [
     "Быки пытались толкнуть цену вверх, но медведи отбросили её назад — сигнал к коррекции",
     "Медведи теряют контроль — сигнал к продолжению роста",
