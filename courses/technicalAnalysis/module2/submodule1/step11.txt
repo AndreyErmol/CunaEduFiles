@@ -9,7 +9,6 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br><strong>Как выглядит</strong>:  
   <br>- Цена открытия находится приблизительно на том же уровне, что и цена закрытия <em>(тело — тонкая линия)</em>.
   <br>- Длинные верхняя и нижняя тени.
-  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.  
   <br><strong>Что означает</strong>: Баланс сил между быками и медведями. Часто предвещает разворот, особенно после тренда.
   <br><strong>Типы</strong>:
   <br>- Обычный доджи — нейтральный сигнал.  
@@ -22,7 +21,6 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br><strong>Как выглядит</strong>:  
   <br>- Две свечи с одинаковыми максимумами <em>(пинцет на вершине)</em> или минимумами <em>(пинцет внизу)</em>.
   <br>- Первая свеча — продолжение тренда, вторая — откат.
-  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.
   <br><strong>Что означает</strong>: Сильное сопротивление/поддержка. Пинцет на вершине — сигнал к продаже, внизу — к покупке.
 </p>
 <img height="100" width="200" style="align-self: center"
@@ -32,7 +30,6 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br><strong>Как выглядит</strong>:  
   <br>- Первая свеча — длинная <em>(материнская)</em>.
   <br>- Вторая свеча — маленькая, полностью внутри тела первой.
-  <br><strong>Где искать</strong>: ВПИЗДЕВПИЗДЕВПИЗДЕВПИЗДЕ.
   <br><strong>Что означает</strong>: Затишье после сильного движения. Часто предшествует развороту.
   <br><strong>Типы</strong>:
   <br>- Бычья харами — после падения.
