@@ -30,5 +30,5 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>- Вымпел — симметричный треугольник с сужающимся диапазоном.  
   <br>Отличие от флага: Вымпел сужается к концу, флаг — параллельный канал.
 </p>
-<img height="100" width="250" style="align-self: center"
+<img height="120" width="120" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/vimpel.jpg?raw=true">

@@ -9,7 +9,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>- Множество касаний границ.
   <br>Что означает: Накопление позиций перед продолжением тренда.
 </p>
-<img height="100" width="200" style="align-self: center"
+<img height="120" width="120" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/rectangle.png?raw=true">
 <p>
   <strong>Клин <em>(Wedge)</em></strong>

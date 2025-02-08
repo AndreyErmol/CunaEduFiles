@@ -14,8 +14,8 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>Потенциал движения: Высота от верхушки головы до шеи откладывается от уровня 
   пробоя линии шеи в сторону, противоположную текущему тренду.
 </p>
-<img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/head.png?raw=true">
+<img height="118" width="200" style="align-self: center"
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/head.jpg?raw=true">
 <p>
   <strong>Двойная вершина/дно <em>(Double Top/Bottom)</em></strong>
   <br>Как выглядит:  
