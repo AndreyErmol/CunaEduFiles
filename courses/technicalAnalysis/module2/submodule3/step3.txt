@@ -19,7 +19,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>- Нисходящий клин в восходящем тренде = сигнал продолжения роста.  
   <br><em>Важно</em>: Клин должен быть направлен против тренда.
 </p>
-<img height="100" width="300" style="align-self: center"
+<img class="iview-image" data-iview height="100" width="300" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/wedge.png?raw=true">
 <p>
   <strong>Метод трех свечей <em>(Rising/Falling Three Methods)</em></strong>

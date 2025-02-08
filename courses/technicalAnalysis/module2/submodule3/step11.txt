@@ -10,12 +10,12 @@
 <img height="100" width="200" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/stars.jpg?raw=true">
 <p>
-  <strong>Бриллиант <em>((Diamond Top/Bottom))</em></strong>
+  <strong>Бриллиант <em>(Diamond Top/Bottom)</em></strong>
   <br>Как выглядит: Сужающийся диапазон колебаний в форме ромба.
   <br>Где искать: На вершине <em>(бриллиант-топ)</em> или впадине <em>(бриллиант-дно)</em>.
   <br>Что означает: Накопление перед резким разворотом.
 </p>
-<img height="100" width="150" style="align-self: center"
+<img class="iview-image" data-iview height="100" width="150" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/brilliant.png?raw=true">
 <p>
   <strong>Перевернутый молот/Падающая звезда</strong>

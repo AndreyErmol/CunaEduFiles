@@ -14,7 +14,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>Потенциал движения: Высота от верхушки головы до шеи откладывается от уровня 
   пробоя линии шеи в сторону, противоположную текущему тренду.
 </p>
-<img height="118" width="200" style="align-self: center"
+<img class="iview-image" data-iview height="118" width="200" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/head.jpg?raw=true">
 <p>
   <strong>Двойная вершина/дно <em>(Double Top/Bottom)</em></strong>
@@ -23,12 +23,12 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>- Двойное дно: Два минимума на одном уровне + пробой сопротивления.
   <br>Что означает: Неудачная попытка пробить уровень, часто влекущая за собой разворот.
 </p>
-<img height="100" width="100" style="align-self: center"
+<img class="iview-image" data-iview height="120" width="120" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/double.png?raw=true">
 <p>
   <strong>Тройная вершина/дно <em>(Triple Top/Bottom)</em></strong>
   <br>Как выглядит: Три попытки пробить уровень, после чего цена разворачивается.  
   <br>Сильнее двойной вершины и двойного дна: Больше «тестов» уровня = сильнее сигнал.
 </p>
-<img height="100" width="100" style="align-self: center"
+<img class="iview-image" data-iview height="120" width="120" style="align-self: center"
   src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/triple.png?raw=true">
