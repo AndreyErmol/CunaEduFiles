@@ -1,10 +1,15 @@
 {
-  "question": "Как часто происходит халвинг биткоина?",
+  "question": "Какой из паттернов изображен на рисунке?",
+  "image": {
+    "url": "https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/molotTest.jpg?raw=true",
+    "height": 100,
+    "width": 120
+  },
   "options": [
-    "Каждые 100 тысяч блоков",
-    "Каждые 210 тысяч блоков",
-    "Каждые 230 тысяч блоков",
-    "Каждые 5 лет"
+    "Падающая звезда",
+    "Перевернутый молот",
+    "Утренняя звезда",
+    "Бриллиант"
   ],
-  "answer": ["Каждые 210 тысяч блоков"]
+  "answer": ["Перевернутый молот"]
 }
