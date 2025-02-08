@@ -11,5 +11,6 @@
 </p>
 <p>
   <em>Контекст решает всё</em>
-  <br>Свеча с длинным телом на 1-минутном графике — это случайность. Та же свеча на дневном — сильный сигнал.
+  <br>Свеча с длинным телом на 1-минутном графике — это случайность. Та же свеча на дневном — сильный сигнал.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule2/images/strength.png?raw=true">
 </p>
