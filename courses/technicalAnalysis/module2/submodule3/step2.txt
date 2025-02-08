@@ -22,7 +22,7 @@ src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnal
   <br>Что означает: Коррекция перед продолжением тренда.
 </p>
 <img height="100" width="200" style="align-self: center"
-  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/flag.jpg?raw=true">
+  src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/flag.png?raw=true">
 <p>
   <strong>Вымпел <em>(Pennant)</em></strong>
   <br>Как выглядит:  
