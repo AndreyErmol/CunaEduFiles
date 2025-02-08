@@ -1,6 +1,8 @@
 <h1>Основные паттерны продолжения</h1>
 
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/up.png?raw=true">
   <strong>Прямоугольник <em>(Rectangle)</em></strong>
   <br>Как выглядит:  
   <br>- Цена движется между горизонтальными уровнями поддержки и сопротивления.  

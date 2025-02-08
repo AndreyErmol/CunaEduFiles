@@ -1,6 +1,8 @@
 <h1>Основные паттерны разворота</h1>
 
 <p>
+<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/turn.png?raw=true">
   <strong>Голова и плечи <em>(Head and Shoulders)</em></strong>
   <br>Как выглядит:  
   <br>- Левое плечо — локальный максимум.  

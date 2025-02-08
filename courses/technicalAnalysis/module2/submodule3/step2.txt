@@ -1,7 +1,8 @@
 <h1>Что такое паттерны продолжения?</h1>
 <p>
   Это графические модели, которые формируются во время коррекции основного 
-  тренда. Их задача — <strong>накопить силу для следующего импульса</strong>.
+  тренда. Их задача — <strong>накопить силу для следующего импульса</strong>.<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/change.png?raw=true">
 </p>
 <p>
   <em>Как отличить от разворота</em>:
@@ -9,7 +10,8 @@
   <br>- Объем торгов снижается во время формирования модели и резко растет при пробое.
 </p>
 <h2 style="text-align: center;">
-  <strong>Основные паттерны продолжения</strong>
+  <strong>Основные паттерны продолжения</strong><img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/trend.png?raw=true">
 </h2>
 <p>
   <strong>Флаг <em>(Flag)</em></strong>

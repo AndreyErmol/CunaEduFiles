@@ -3,7 +3,8 @@
 <p>
   <strong>Паттерны разворота тренда</strong> — это <em>«красные флаги»</em> рынка, которые кричат: <em>«Внимание! Тренд может 
   смениться!»</em> Они помогают вовремя закрыть позиции или открыть сделку в новом направлении. 
-  Давайте изучим ключевые модели, которые предупреждают о грядущих переменах!
+  Давайте изучим ключевые модели, которые предупреждают о грядущих переменах!<img style="vertical-align: middle" height=40 width=40 
+src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/module2/submodule3/images/change.png?raw=true">
 </p>
 <h2 style="text-align: center;">
   <strong>Что такое паттерны разворота?</strong>
