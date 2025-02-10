@@ -4,8 +4,8 @@
 </video> -->
 <img data-iview src="https://github.com/AndreyErmol/CunaEduFiles/blob/main/courses/technicalAnalysis/img/1.png?raw=true" style="width: 100px; height: 100px; margin-top: 10px;" class="iview-image">
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lorem
-  nibh, consectetur vel lacus in, fringilla suscipit nibh. Suspendisse
+  Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. Proin lorem
+  nibh, <em>consectetur vel lacus in, fringilla suscipit nibh</em>. Suspendisse
   aliquet fermentum eleifend. Nulla molestie tristique tincidunt. In
   varius pulvinar tristique. Vivamus consectetur arcu non elementum
   rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
