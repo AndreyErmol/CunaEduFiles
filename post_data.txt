@@ -1,3 +1,0 @@
-BTC price: 118534
-ETH price: 3400
-feer and greed index: 33
